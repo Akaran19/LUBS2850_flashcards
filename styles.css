@@ -142,7 +142,7 @@ body {
 
 .option-btn.red    { background: var(--red); }
 .option-btn.blue   { background: var(--blue); }
-.option-btn.yellow { background: var(--yellow); color: #212121; }
+.option-btn.yellow { background: var(--yellow); }
 .option-btn.green  { background: var(--green); }
 
 .option-btn .shape {
