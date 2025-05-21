@@ -1,6 +1,7 @@
 // app.js
 
 let allItems = [];
+let unusedItems = []; // Track questions not yet asked in this session
 let score = 0;
 let questionCount = 0;
 const MAX_QUESTIONS = 20;
@@ -83,6 +84,9 @@ function startGame() {
   // Clear any existing timer
   clearInterval(timerId);
   
+  // Reset the unused items pool when starting a new game
+  unusedItems = [...allItems];
+  
   nextQuestion();
 }
 
@@ -105,13 +109,22 @@ function pickDecoys(arr, n, correctAnswer) {
 
 // 4. Question cycle
 function nextQuestion() {
+  // If we've used all questions, reset the pool
+  if (unusedItems.length === 0) {
+    unusedItems = [...allItems];
+  }
+
   questionCount++;
   // Update progress bar and text
   if (progressEl) progressEl.value = questionCount;
   if (progressText) progressText.textContent = `${questionCount}/${allItems.length}`;
 
   feedbackEl.textContent = '';
-  const item = pickRandom(allItems);
+  
+  // Pick a random item from the unused pool and remove it
+  const randomIndex = Math.floor(Math.random() * unusedItems.length);
+  const item = unusedItems.splice(randomIndex, 1)[0];
+  
   const term = item.question;
   currentCorrectAnswer = item.answer;
 
