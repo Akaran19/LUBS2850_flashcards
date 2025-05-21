@@ -17,9 +17,6 @@ const optionsEl    = document.getElementById('options');
 const feedbackEl   = document.getElementById('feedback');
 const progressEl   = document.getElementById('progress');
 const progressText = document.getElementById('progress-text');
-const endScreen    = document.getElementById('end-screen');
-const finalScore   = document.getElementById('final-score');
-const playAgain    = document.getElementById('play-again');
 
 // Leaderboard persistence
 function loadLeaderboard() {
@@ -79,7 +76,6 @@ function startGame() {
   questionCount = 0;
   scoreEl.textContent = `Score: ${score}`;
   feedbackEl.textContent = '';
-  endScreen.classList.add('hidden');
   // Reset progress bar and text
   if (progressEl) progressEl.value = 0;
   if (progressText) progressText.textContent = `0/${allItems.length}`;
@@ -191,6 +187,3 @@ function handleWrong() {
 
 // 7. End game (not used)
 function endGame() {}
-
-// 8. Restart button
-playAgain.onclick = startGame;
