@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Rapid Recall Challenge</title>
+  <link rel="stylesheet" href="styles.css">
+  <link rel="icon" href="data:;base64,=">
+</head>
+<body>
+  <div class="layout">
+    <!-- Sidebar -->
+    <aside class="leaderboard">
+      <h2>Leaderboard</h2>
+      <ol id="sidebar-leaderboard"></ol>
+    </aside>
+
+    <!-- Main game area -->
+    <div class="game-container kahoot-style">
+      <!-- Timer header -->
+      <header class="kahoot-header">
+        <span id="timer"></span>
+        <div id="score" class="score-display">Score: 0</div>
+      </header>
+
+      <!-- Question text -->
+      <div id="question" class="kahoot-question">Loading…</div>
+
+      <!-- Feedback (Correct/Wrong) -->
+      <div id="feedback" class="feedback"></div>
+
+      <!-- JS-injected answer buttons go here -->
+      <main id="options" class="options kahoot-grid"></main>
+
+      <!-- Progress bar & text -->
+      <footer>
+        <progress id="progress"></progress>
+        <div id="progress-text" class="feedback"></div>
+      </footer>
+
+      <!-- End-of-run screen -->
+      <div id="end-screen" class="end-screen hidden">
+        <h2>Game Over</h2>
+        <p id="final-score"></p>
+        <button id="play-again">Play Again</button>
+      </div>
+    </div>
+  </div>
+
+  <script src="app.js" defer></script>
+</body>
+</html>

@@ -1,0 +1,1244 @@
+[
+  {
+    "id": "1",
+    "question": "What is Marketing?",
+    "answer": "Marketing is the management process responsible for identifying, anticipating, and satisfying customer requirements profitably. The achievement of corporate goals through delivering value to customer better than the competitor (Fahy and Jobber, 2015). Marketing is the process by which companies engage, build and manage long-term relationships with customers via continually creating and delivering superior value offerings over competition in exchange for profits for the firm (Kotler, 2018).",
+    "category": "Other"
+  },
+  {
+    "id": "2",
+    "question": "What is Market Orientation?",
+    "answer": "An approach to business that prioritizes identifying the needs and desires of consumers and creating products that satisfy them",
+    "category": "4Ps: Product"
+  },
+  {
+    "id": "3",
+    "question": "What is Marketing Oriented?",
+    "answer": "Companies that focus on discovering, creating, and meeting the needs and wants of their targeted customers",
+    "category": "Other"
+  },
+  {
+    "id": "4",
+    "question": "What is a Marketing Oriented Company?",
+    "answer": "Companies that focus on engaging and building long-term relationships with their customers",
+    "category": "Other"
+  },
+  {
+    "id": "5",
+    "question": "What is a Market?",
+    "answer": "The set of actual and potential customers that share common needs",
+    "category": "Other"
+  },
+  {
+    "id": "6",
+    "question": "What is an Industry?",
+    "answer": "The production of goods or related services within an economy",
+    "category": "4Ps: Product"
+  },
+  {
+    "id": "7",
+    "question": "What is a customer?",
+    "answer": "The actual or prospective purchaser of products or services",
+    "category": "4Ps: Product"
+  },
+  {
+    "id": "8",
+    "question": "What is a consumer?",
+    "answer": "The ultimate user or consumer of goods, ideas and services",
+    "category": "Other"
+  },
+  {
+    "id": "9",
+    "question": "What are customer demand, needs and wants?",
+    "answer": "Needs are states of felt deprivation,. Wants are the human needs shaped by culture and personality, Demands are the human wants which are backed by buying power",
+    "category": "Other"
+  },
+  {
+    "id": "10",
+    "question": "What makes up market offerings?",
+    "answer": "Combinations of products, services, information and experiences",
+    "category": "4Ps: Product"
+  },
+  {
+    "id": "11",
+    "question": "What is customer satisfaction?",
+    "answer": "Customer perceptions and expectations, both before and after purchasing and using the product",
+    "category": "4Ps: Product"
+  },
+  {
+    "id": "12",
+    "question": "What is customer percieved value?",
+    "answer": "The difference between all the benefits and all the costs of the market offering",
+    "category": "Other"
+  },
+  {
+    "id": "13",
+    "question": "What are the four steps to the marketing process?",
+    "answer": "Understanding customer needs and wants (through market research) - Designing a marketing strategy (through selecting and targeting the right customers) - Designing an integrated marketing program (4P's / 7P's) - Engaging customers and building relationships (through customer loyalty)",
+    "category": "Segmentation"
+  },
+  {
+    "id": "14",
+    "question": "What makes up Customer Value?",
+    "answer": "The positive benefits from having the product, such as time or energy saved, or image benefits, minus the percieved sacrifice to the product, such as the money and time which goes into getting the product",
+    "category": "4Ps: Product"
+  },
+  {
+    "id": "15",
+    "question": "What steps go into designing a marketing strategy?",
+    "answer": "Segmentation, identifying a segrment, differentiating from competition, choosing value proposition, positioning in the marketplace",
+    "category": "4Ps: Place"
+  },
+  {
+    "id": "16",
+    "question": "What are the 4P's of Marketing?",
+    "answer": "Product, Price, Place (distribution) and Promotion",
+    "category": "4Ps: Price"
+  },
+  {
+    "id": "17",
+    "question": "What are the 7P's of Marketing through the extended marketing mix?",
+    "answer": "Product, Price, Place (distribution), Promotion, People, Process and Physical Evidence",
+    "category": "4Ps: Price"
+  },
+  {
+    "id": "18",
+    "question": "What is agressive personalisation?",
+    "answer": "A negative consequence of personalisation, running the fine line between engaging with customers and annoying them",
+    "category": "Other"
+  },
+  {
+    "id": "19",
+    "question": "What is unauthorised personalisation?",
+    "answer": "A negative consequence of personalisation. Customer data is critical to personalization '97but marketers' efforts often backfire when they use information that a customer didn't willingly provide",
+    "category": "Other"
+  },
+  {
+    "id": "20",
+    "question": "What is inaccurate personalisation?",
+    "answer": "A negative consequence of personalisation where outdated or incorrect data is used and backfires upon the company",
+    "category": "Other"
+  },
+  {
+    "id": "21",
+    "question": "How would you limit the risks of personalisation?",
+    "answer": "Implement it gradually, consider the target audience and always ask for pemission",
+    "category": "Other"
+  },
+  {
+    "id": "22",
+    "question": "How is the marketing landscape changing?",
+    "answer": "Sustainability is a big issue and calls for more socially responsible marketing. The economic environment is becoming more uncertain - Brexit. Digital marketing has allowed for more personalisation through big data and analysis. Globalisation has made multiculural awareness a bigger issue than ever. Not for profit marketing is a growing trend - political gain, environmental issues.",
+    "category": "Other"
+  },
+  {
+    "id": "23",
+    "question": "Why do we gain insights on the maketplace?",
+    "answer": "To make better educated decisions about our marketing choices based on consumer wants, needs and demands. This helps to create value for the custome and makes it easier for firms to build, maintain and develop meaning relationships. Insights also allow firms to understand the forces which affect firms' decisions and to develop a competitive advantage.",
+    "category": "Other"
+  },
+  {
+    "id": "24",
+    "question": "How do we gain insights on the marketplace?",
+    "answer": "Collect good marketing information and exploit big data and marketing analytics",
+    "category": "Other"
+  },
+  {
+    "id": "25",
+    "question": "Whee does data come from for market research?",
+    "answer": "Internal research, marketing intelligence and marketing research.",
+    "category": "Other"
+  },
+  {
+    "id": "26",
+    "question": "What are internal databases?",
+    "answer": "Databases are a collection of consumer and marketing information obtained from internal sources. The marketing department will provide customer characteristics from instore and online sales data, customer service departments provides information on customer satisfaction and complaints, and accounting departments provide information on cash flows and costs.",
+    "category": "Other"
+  },
+  {
+    "id": "27",
+    "question": "What are the benefits and drawbacks of internal marketing databases?",
+    "answer": "- They are cheap, reliable and easy to access, however their data ages fast, data sets may be incomplete, and data can be taken out of the context it was collected for, or become difficult to interpret.",
+    "category": "Other"
+  },
+  {
+    "id": "28",
+    "question": "What is Marketing intelligence?",
+    "answer": "The systematic monitoring, collection, and analysis of publicly available information about customers, competitors and development of the overall marketing environment. This allows for improved strategic decision making, better understanding of customers and gaining insight into how the consumers engage with their brands. This then allows a company to track and assess competitors actions, strategies and tactics.",
+    "category": "Branding"
+  },
+  {
+    "id": "29",
+    "question": "What is Market Research?",
+    "answer": "The systematic design, collection, analysis and reporting of data relevant to a specific marketing situation facing a firm.",
+    "category": "Other"
+  },
+  {
+    "id": "30",
+    "question": "Why do we use Marketing Intelligence?",
+    "answer": "Improve strategic decision making, understand consumers, gain insights into how consumers talk and engage with the brands, track and assess competitors actions, strategies and tactics, identify opportunities and threats, assess potential benefits or damages from information leakage, protect against marketing intelligence efforts by competitors, ethical considerations",
+    "category": "Branding"
+  },
+  {
+    "id": "31",
+    "question": "What is Ad-Hoc Research?",
+    "answer": "Research which focuses on a specific marketing problem and involves the collection of data at one point in time from one sample of respondents / informants",
+    "category": "Other"
+  },
+  {
+    "id": "32",
+    "question": "What is Continuous Research?",
+    "answer": "Research which involves conducting the same research on the same sample repeatedly",
+    "category": "Other"
+  },
+  {
+    "id": "33",
+    "question": "What is Custom Research?",
+    "answer": "Research which is conducted for a single firm to provide specific answers",
+    "category": "Other"
+  },
+  {
+    "id": "34",
+    "question": "What is Syndicated / Omnibus research?",
+    "answer": "Research which is conducted by firms regularly and sold to other firms",
+    "category": "Other"
+  },
+  {
+    "id": "35",
+    "question": "What is the goal of Exploratory Research?",
+    "answer": "To gather preliminary information to define the problem and suggest hypotheses",
+    "category": "Other"
+  },
+  {
+    "id": "36",
+    "question": "What is the goal of Descriptive Research?",
+    "answer": "To describe things such as market potential for a product, consumer attitudes and behaviours",
+    "category": "4Ps: Product"
+  },
+  {
+    "id": "37",
+    "question": "What is the goal of Causal Research?",
+    "answer": "To test hypotheses about cause and effect relationships",
+    "category": "Other"
+  },
+  {
+    "id": "38",
+    "question": "What should be included in a written proposal of a research plan?",
+    "answer": "The objectives of the research, their methods of experimentation and data collection with inclusion of the cost and time taken to complete. It should be specified whether the research is qualitative or quantitative.",
+    "category": "Other"
+  },
+  {
+    "id": "39",
+    "question": "What is secondary data?",
+    "answer": "Data which already exists and has been collected for a different purpose.",
+    "category": "Other"
+  },
+  {
+    "id": "40",
+    "question": "What are the benefits of using secondary data?",
+    "answer": "It's easier and faster to gather, cheaper than using primary data and can provide data which may be difficult to collect.",
+    "category": "Other"
+  },
+  {
+    "id": "41",
+    "question": "What are the drawbacks of using secondary data?",
+    "answer": "It's not always available and cheap, often can be incomplete and may not be useable even if it's available.",
+    "category": "Other"
+  },
+  {
+    "id": "42",
+    "question": "What needs to be considered when using secondary data?",
+    "answer": "Whether it is relevant, accurate, current and impartial.",
+    "category": "Other"
+  },
+  {
+    "id": "43",
+    "question": "What is important when interpreting and reporting research findings?",
+    "answer": "Not overwhelming with numbers and stats, and presenting with insights which will be useful for making major decisions. Provide actionable reccomendations and interpret finding with the managers. Be aware of interpretation biases.",
+    "category": "Other"
+  },
+  {
+    "id": "44",
+    "question": "What is a marketing audit?",
+    "answer": "A systematic examination of a firm's marketing environment, objectives, strategies, and activities. It includes an internal audit (i.e., those areas that are under control of marketing management) and an external audit (e.g., those forces over which management has no control). It aims at identifying key Strengths, Weaknesses, Opportunities, and Threats",
+    "category": "Other"
+  },
+  {
+    "id": "45",
+    "question": "What forces affect a SWOT diagram?",
+    "answer": "Internal and external factors which have an effect on the management of the firm. The micro-environment - actors & forces affecting firms' ability to serve customers. The macro-environment - societal forces that affect the micro-environment. The internal environment - actors & forces that influence firms' decisions",
+    "category": "Other"
+  },
+  {
+    "id": "46",
+    "question": "Why is a marketing audit important?",
+    "answer": "To understand the environment in which a firm operates, and to inform the marketing information system. It allows us to identify marketing strengths, weaknesses,, opportunities and threats and allows us an insight into understanding customer needs and wants.",
+    "category": "Other"
+  },
+  {
+    "id": "47",
+    "question": "What is the macro - environment?",
+    "answer": "All the factors which externally affect the running of a company, including demographics, economics, technological, political and cultural factors.",
+    "category": "Other"
+  },
+  {
+    "id": "48",
+    "question": "What is the micro environment?",
+    "answer": "The microenvironment is a series of actors and forces affecting firms' ability to serve their customers. These could include the company itself, supplier, marketing intermediaries, competitors, public and their customers.",
+    "category": "Other"
+  },
+  {
+    "id": "49",
+    "question": "How is market research conducted?",
+    "answer": "The problem is defined and objectives are researched. In this stage, the firm will decide on what information is needed and how they'll gather it. Then, the research plan for collecting data is developed and a research approach is selected. After that, the data is collected, processed and analysed. Data is interpreted, findings are reported and conclusions drawn.",
+    "category": "Other"
+  },
+  {
+    "id": "50",
+    "question": "What should marketing managers be aware of?",
+    "answer": "Company mission, objectives, strategies, tactics and policies, operational results (sales, market share, profit margins and costs), strategic issues (e.g., USP, market segmentation, targeting, and core competences), their marketing mix and brand awareness.",
+    "category": "Segmentation"
+  },
+  {
+    "id": "51",
+    "question": "What should marketing managers consider?",
+    "answer": "Market size, growth rates, trends and developments.",
+    "category": "Other"
+  },
+  {
+    "id": "52",
+    "question": "What is portfolio analysis?",
+    "answer": "The process used to evaluate the products / businesses that make up the company.",
+    "category": "4Ps: Product"
+  },
+  {
+    "id": "53",
+    "question": "Why is portfolio analysis used?",
+    "answer": "To achieve and effective use of resources, management needs to identify a firm's products and services, assess their attractiveness, decide on the support and investment which should be dedicated to each market offfering, and decide on the role each market offering will play in the future. Portfolio analysis is used to evaluate each market offering to see their use to the company.",
+    "category": "4Ps: Product"
+  },
+  {
+    "id": "54",
+    "question": "What is the role of the supplier?",
+    "answer": "Suppliers provide the resources needed to product products and services.",
+    "category": "4Ps: Product"
+  },
+  {
+    "id": "55",
+    "question": "Why are suppliers important?",
+    "answer": "They play a key role in the customer value delivery network, and problems with suppliers can damage a firm's customer satisfaction (KFC). Marketing managers should monitor supplier availability and costs, and treat suppliers as partners. Marketing managers should know who, where, and how many suppliers they have, each's competences and shortcoming, and any trends affecting them. They should also be aware of the status and reputation of their suppliers.",
+    "category": "Other"
+  },
+  {
+    "id": "56",
+    "question": "What is a marketing intermediary?",
+    "answer": "A firm that helps to promote, sell and distribute products to customers.",
+    "category": "4Ps: Product"
+  },
+  {
+    "id": "57",
+    "question": "What are the different types of marketing intermediary, and what do they\\ do?",
+    "answer": "Resellers are distribution firms that helps firms find customers or makes the sale - examples of these are wholesalers and retailers who buy and resell merchandise. Physical distribution firms help firms stock and move products - transportation companies. Marketing service agencies help firms target and promote products too the right maket - advertising agencies. Financial intermediaries help with financial transactions and insurance against risks - banks and insurance companies.",
+    "category": "4Ps: Product"
+  },
+  {
+    "id": "58",
+    "question": "What should a marketing manager know about their marketing intermediaries?",
+    "answer": "Power changes, the attractiveness of the intermediary, their distribution methods, potential growth.",
+    "category": "Other"
+  },
+  {
+    "id": "59",
+    "question": "What must a firm do to stay ahead of their competitors?",
+    "answer": "A firm must provide greater customer satisfaction and value than a competitor.",
+    "category": "Other"
+  },
+  {
+    "id": "60",
+    "question": "How can a firm stay ahead of their competitors?",
+    "answer": "Achieve strategic advantage by differentiating & positioning offerings in consumers' mind. They must design a competitive marketing strategy and know that there is not a single competitive strategy that is best for every firm.",
+    "category": "Other"
+  },
+  {
+    "id": "61",
+    "question": "What must a marketing manager know about their competitors?",
+    "answer": "Who their indirect and direct competition are, their own size and industry position against these competitors and be aware of their competitions current and potential strategies and tactics. They should also know their competition's core competencies and weaknesses.",
+    "category": "Other"
+  },
+  {
+    "id": "62",
+    "question": "What are Porter's five forces?",
+    "answer": "Threat of new entrants, threat of substitution, bargaining power of buyers, bargaining power of suppliers and rivalry among existing competitors.",
+    "category": "Other"
+  },
+  {
+    "id": "63",
+    "question": "What could affect the threat of new entrants?",
+    "answer": "Barriers to entry to the marker, economies of scale, existing brand loyalty, government policies, access to distribution channels",
+    "category": "Branding"
+  },
+  {
+    "id": "64",
+    "question": "What could affect rivalry among existing competitors?",
+    "answer": "Number and diversity of competitors, the growth rate and size of the market, brand loyalty and quality differences between products.",
+    "category": "4Ps: Product"
+  },
+  {
+    "id": "65",
+    "question": "What could affect the bargaining power of suppliers?",
+    "answer": "Number and size of the suppliers, the uniqueness of the product, and the company's ability to substitute",
+    "category": "4Ps: Product"
+  },
+  {
+    "id": "66",
+    "question": "What could affect the threat of substitute products?",
+    "answer": "The numbe of substitute products available, the relative price performance of a substitute and the percieved level of product differentiation.",
+    "category": "4Ps: Price"
+  },
+  {
+    "id": "67",
+    "question": "What could affect the bargaining power of buyers?",
+    "answer": "The number of customers, the size of an order, the differences between competitors, the buyer's ability to substitute, and the price sensitivity of the product",
+    "category": "4Ps: Price"
+  },
+  {
+    "id": "68",
+    "question": "What are Publics?",
+    "answer": "Groups that have actual or potential interest in, or impact on, a firm's ability to achieve their goals.",
+    "category": "Other"
+  },
+  {
+    "id": "69",
+    "question": "What groups could be considered publics?",
+    "answer": "Financial publics such as investment analysis, media who influence firm's operations, government who produce guidelines, laws and restrictions, citizens who affect maketing decisions, locals who are affected by the operation of the company in their area.",
+    "category": "Other"
+  },
+  {
+    "id": "70",
+    "question": "How would the type of market affect the type of customer a business would\\ work with?",
+    "answer": "Consumer markets would be teated differently to business markets, as consumers would buy goods and services for personal consumption whereas business would buy products and services for further processing and use. Reseller markets would buy products and services to sell again at a profit. Government markets buy products and services to produce public services, or to provide them to those who need them. These markets will also differ with whether they're domestic or overseas.",
+    "category": "4Ps: Product"
+  },
+  {
+    "id": "71",
+    "question": "What should a business know about their customers?",
+    "answer": "Who they are, their decision making process, where and when they would buy, their lifestyle, beliefs, attitudes, culture and groups. They should know how they're seen in the eyes of the customer in relation to competitors, and their customer's opinions on their product, price, process, etc. They should know the type of customerr who buys their product (e.g., initiator, influencer, decider, buyer, and user)",
+    "category": "4Ps: Price"
+  },
+  {
+    "id": "72",
+    "question": "What can be the issues with a marketing audit?",
+    "answer": "It can be ignored, changes made as a result can be delayed.",
+    "category": "Other"
+  },
+  {
+    "id": "73",
+    "question": "What positive changes can come as a result of a marketing audit?",
+    "answer": "Improved efficiency, gradual strategic repositioning, and radical, fundamental shifts in a firm's strategy.",
+    "category": "Other"
+  },
+  {
+    "id": "74",
+    "question": "What is the demographic environment and why is it important to marketing\\ managers?",
+    "answer": "Demography is the study of human population in terms of size, density, location, age, gender, race, and occupation. It involves people, and people make up the market. Changes in demographic environment have major changes in the market. The working population is growing at a high rate (8B by 2030). Marketing managers analyse the changing age and family structures, geographical population shifts, educational characteristics and population diversity.",
+    "category": "Other"
+  },
+  {
+    "id": "75",
+    "question": "What is the economic environemt and how can economic factos affect\\ consumer purchasing power?",
+    "answer": "Economic factors affect consumer purchasing powe and spending pattens. Changes in economic variables have an impact on the marketplace (e.g., cost of living, interest rates, saving and borrowing). Marketing managers should be aware of income level and income distribution (rich get richer, poor get poorer, shrinking middle class).",
+    "category": "4Ps: Place"
+  },
+  {
+    "id": "76",
+    "question": "Why do firms use economic forecasting?",
+    "answer": "To assess and predict unemployment rates, economic growth, taxation, interest and exchange rates in order to take advantage of changes in the economic environment. This allows them to offer the right combination of goods and services at a fair price.",
+    "category": "4Ps: Price"
+  },
+  {
+    "id": "77",
+    "question": "How does the natural environment affect marketers?",
+    "answer": "The natural environment is the physical environment and the natural resources that are needed as inputs by marketers or that are affected by marketing activities. Climate change, shortages of raw materials, increased pollution and government intervention all have effects on the behaviours of businesses. Environmental sustainability movements have pushed businesses into developing strategies and practices which support environmental sustainability.",
+    "category": "Other"
+  },
+  {
+    "id": "78",
+    "question": "How does the technological environment affect marketing behaviour?",
+    "answer": "The technological environment creates forces which develop new technologies, products, and market opportunities. It is the most dramatic force in changing the market place through new product development creating new markets and therefore new opportunities.",
+    "category": "4Ps: Product"
+  },
+  {
+    "id": "79",
+    "question": "How can the socio-political environment affect marketing behaviour?",
+    "answer": "Law, govenment agencies and pressure groups all affect firms' decisions. Legislation regulating businesses is intended to protect firms from eachother, consumers from unfair business practice, and the interests of society against unfair business practices.",
+    "category": "Other"
+  },
+  {
+    "id": "80",
+    "question": "How has the socio-political environment changes in recent years?",
+    "answer": "Increased emphasis on ethics (GDPR), socially responsible behaviour (FairTrade), EU, trade wars and Brexit are all large issues in the current socio - political landscape",
+    "category": "Other"
+  },
+  {
+    "id": "81",
+    "question": "What is the cultural environment?",
+    "answer": "Consists of institutions and other forces that affect society's basic values, perceptions and behaviour. Beliefs and values shape an individual's attitudes and behaviour.",
+    "category": "Other"
+  },
+  {
+    "id": "82",
+    "question": "What is the difference between core beliefs / values and secondary beliefs\\ / values?",
+    "answer": "Core beliefs and values are persistent and are passed on from parents to children and are reinforced by schools, churches, businesses, and government, whereas secondary beliefs and values are more open to change and include people's views of themselves, others, organizations, society, nature, and the universe.",
+    "category": "Other"
+  },
+  {
+    "id": "83",
+    "question": "How should marketers utilise the forces of the cultural environment?",
+    "answer": "To spot new opportunities and threats, they should look at the differences in culture between markets - personal belief systems vs religion, consumer views on large firms, society, nature and the universe (religion).",
+    "category": "Other"
+  },
+  {
+    "id": "84",
+    "question": "What is consumer behaviour?",
+    "answer": "The dynamic interaction of affect and cognition, behaviour, and the environment by which human beings conduct the exchange aspects of their lives. The behaviour of the consumer or decision maker in the market place of products and services. It often is used to describe the interdisciplinary field of scientific study that attempts to understand and describe such behaviour. (American Marketing Association)",
+    "category": "4Ps: Product"
+  },
+  {
+    "id": "85",
+    "question": "What are the ABC's of Psychology?",
+    "answer": "Affect, Behaviour, Cognition",
+    "category": "Other"
+  },
+  {
+    "id": "86",
+    "question": "What is the Affect component of the ABC of Psychology?",
+    "answer": "Affect can be any experience of feeling or emotion, ranging from suffering to elation, from the simplest to the most complex sensations of feeling, and from the most normal to the most pathological emotional reactions (American Psychological Association) - in marketing terms, this can be consumer related feelings, such as satisfaction or dissatisfaction, brand attitudes and choice related regret.",
+    "category": "Branding"
+  },
+  {
+    "id": "87",
+    "question": "What is the Cognition component of the ABC of Psychology?",
+    "answer": "Cognition makes up all forms of knowing and awareness, such as perception, conception, remembering, reasoning, judgement and problem solving. Consumer related examples can be brand awareness, remembering advertisements and decision making from brand awareness.",
+    "category": "Branding"
+  },
+  {
+    "id": "88",
+    "question": "What is the Behaviour component of the ABC of Psychology?",
+    "answer": "An individual's activity in response to stimuli. In consumer tems, it is the actions of consumers which can be observed, the physical aspects of consumer behaviour - purchasing, reviewing, recycling",
+    "category": "Other"
+  },
+  {
+    "id": "89",
+    "question": "What does Kotler & Armstrong's version of the stimulus response model\\ state?",
+    "answer": "Marketing stimuli (7P's) are processed by an individual in order to produce a response such as buying attitudes and prreferences, purchase behaviour and brand engagements and relationships.",
+    "category": "Branding"
+  },
+  {
+    "id": "90",
+    "question": "What does consumer buyer behaviour refer to?",
+    "answer": "Consumer buyer behaviour\" refers to the buying behaviour of final consumers - individuals and households that buy goods and services for personal consumption\" (Kotler & Armstrong, 2018, p. 158). This has been criticised as a weak and vague definition.",
+    "category": "Other"
+  },
+  {
+    "id": "91",
+    "question": "What are some examples of consumer behaviour?",
+    "answer": "Searching for information, shop visits, recommendations or complaints about a product or service, donations, recycling, brand communities (Biker Clubs).",
+    "category": "4Ps: Product"
+  },
+  {
+    "id": "92",
+    "question": "Where does consumer behaviour draw from?",
+    "answer": "Sociology, psychology, decision making, management, behavioural economics",
+    "category": "Other"
+  },
+  {
+    "id": "93",
+    "question": "What is a culture?",
+    "answer": "A set of basic values, perceptions, wants, and behaviours learned by a member of society from family and other important institutions.",
+    "category": "Other"
+  },
+  {
+    "id": "94",
+    "question": "What is a subculture?",
+    "answer": "Groups of people within a culture with shared value systems based on common life experiences and situations. - heritage, race, religion, shared interests and goals",
+    "category": "Other"
+  },
+  {
+    "id": "95",
+    "question": "What is a social class?",
+    "answer": "Society's relatively permanent and ordered divisions whose members share similar values, interests, and behaviours, measured as a combination of occupation, income, education and wealth - this is not the same as socioeconomic status.",
+    "category": "Other"
+  },
+  {
+    "id": "96",
+    "question": "How can social factors affect consumer behaviour?",
+    "answer": "Social networks can develop brand communities and Facebook groups for users of a product. Social media influencers can use their platforms to promote a product. Families can have loyalty to certain products, and the size of a family unit can have an effect on purchasing decisions - car size.",
+    "category": "4Ps: Product"
+  },
+  {
+    "id": "97",
+    "question": "How can personal factors affect consumer behaviour?",
+    "answer": "Age and life-cycle status will affect purchasing decisions, as will occupation, economic situation, lifestyle, personality, etc. Personality and self concept will also be factors on individual purchasing decisions.",
+    "category": "Other"
+  },
+  {
+    "id": "98",
+    "question": "How can psychological factors affect consumer behaviour?",
+    "answer": "Motivation is a need which is pressing enough to direct an individual into seeking satisfaction of that need - Maslow's heirarchy of needs shows how people can be affected by different needs at different, particular times in their life. An individual's perception of the world may effect their consumer behaviour - buying a hybrid to reduce CO2 emmisions, not buying single use plastics to reduce waste. Belief and attitude systems can affect consumer behaviours - vegamism, halal foods",
+    "category": "Other"
+  },
+  {
+    "id": "99",
+    "question": "What is Need Recognition?",
+    "answer": "Need recognition is the first stage of the buyer decision process, in which the consumer recognises a problem or need triggered by stimuli - internal such as hunger or thirst, external such as a discussion with a friend.",
+    "category": "Other"
+  },
+  {
+    "id": "100",
+    "question": "What is Information Search?",
+    "answer": "Information search is the second stage of the buyer decision process in which the consumer is motivated to search for more information - friends, family, internet, testing",
+    "category": "Other"
+  },
+  {
+    "id": "101",
+    "question": "What is Alternative Evaluation?",
+    "answer": "Alternative evaluation is the third stage of the buyer decision process where the consumer uses the information found in the information search to evaluate alternative brands",
+    "category": "Branding"
+  },
+  {
+    "id": "102",
+    "question": "What is Purchase Decision?",
+    "answer": "Purchase decision is the buyer's decision about which brand to purchase - the purchase intention may not become the purchase decision due to the attitudes of others and unexpected situational factors. This is the fourth stage of the buyer decision process.",
+    "category": "Branding"
+  },
+  {
+    "id": "103",
+    "question": "What is Post Purchase Behaviour?",
+    "answer": "Post purchase behaviour is the fifth stage of the buyer decision process in which consumers take further action based on their satisfaction level",
+    "category": "Other"
+  },
+  {
+    "id": "104",
+    "question": "What are some flaws with the Buyer Decision Process?",
+    "answer": "It does not always reflect the process of purchasing a product, and is very generalised. Some purchases can be irrational, and so the Buyer Decision Process can only really be applied to larger, more impactful buys.",
+    "category": "4Ps: Product"
+  },
+  {
+    "id": "105",
+    "question": "What is strategic planning?",
+    "answer": "The process of designing and maintaining a strategic fit between the organization's goals and capabilities, and its changing marketing opportunities. Strategic planning involves analysis, formulation and implementation strategies to exploit opportunities and ascertain long-term survival uc0 u8192",
+    "category": "Other"
+  },
+  {
+    "id": "106",
+    "question": "What are the four steps in strategic planning?",
+    "answer": "Defining a firm's mission, setting objectives and goals, designing a business portfolio and planning marketing and other functional strategiees",
+    "category": "Other"
+  },
+  {
+    "id": "107",
+    "question": "What does the process of formulating a competitive strategy consist\\ of?",
+    "answer": "Defining where the firm is currently, what is happening in the environment around them, and deciding what they should be doing.",
+    "category": "Other"
+  },
+  {
+    "id": "108",
+    "question": "What should a mission statement consist of?",
+    "answer": "Firm's purpose and operation goals, what they want to accomplish in the larger environment, with emphasis on products, services, customers and geographical regions of operations. It should emphasise the firm's strengths and how it intends to win in a marketplace.",
+    "category": "4Ps: Product"
+  },
+  {
+    "id": "109",
+    "question": "What is the SMART method of goal setting?",
+    "answer": "Making goals which are Specific, Measurable, Achievable, Realistic, and Timely.",
+    "category": "Other"
+  },
+  {
+    "id": "110",
+    "question": "What is a firm portfolio?",
+    "answer": "A firm portfolio is the collection uc0 u8192 of strategic businesses units and products that make uc0 u8192 up a firm. A strategic business unit can be a single business, company division, product line, single brand or distinct target audience.",
+    "category": "4Ps: Product"
+  },
+  {
+    "id": "111",
+    "question": "What issues can arise when defining Strategic Business Units?",
+    "answer": "It's a time consuming, expensive process, measuing market share, growth rates and sales. It also focuses on current business and does not plan for the future.",
+    "category": "Other"
+  },
+  {
+    "id": "112",
+    "question": "What is the Boston Consulting Matrix?",
+    "answer": "It is a matrix with four distinct and separate quadrants - stars, cash cows, question marks and dogs.",
+    "category": "Other"
+  },
+  {
+    "id": "113",
+    "question": "What do Stars do on the Boston Consulting Matrix?",
+    "answer": "Have a high market share in a high growth market",
+    "category": "Other"
+  },
+  {
+    "id": "114",
+    "question": "What do Cash Cows do on the Boston Consulting Matrix?",
+    "answer": "Have a high market share in a low growth market",
+    "category": "Other"
+  },
+  {
+    "id": "115",
+    "question": "What do Question Marks do on the Boston Consulting Matrix?",
+    "answer": "Have a low market share in a high growth market",
+    "category": "Other"
+  },
+  {
+    "id": "116",
+    "question": "What do Dogs do on the Boston Consulting Matrix?",
+    "answer": "Have a low market share in a low growth market",
+    "category": "Other"
+  },
+  {
+    "id": "117",
+    "question": "What is downsizing?",
+    "answer": "When a company harvest or divest businesses that are unprofitable or that no longer fit the strategy.",
+    "category": "Other"
+  },
+  {
+    "id": "118",
+    "question": "What is Ansoff's Matrix?",
+    "answer": "A four quadrant matrix which reviews the risk of entering new or existing products into new or existing markets.",
+    "category": "4Ps: Product"
+  },
+  {
+    "id": "119",
+    "question": "What is Market Penetration?",
+    "answer": "A growth strategy where the business focuses on selling existing products into existing markets.",
+    "category": "4Ps: Product"
+  },
+  {
+    "id": "120",
+    "question": "What is Market Development?",
+    "answer": "A growth strategy where the business seeks to sell its existing products into new markets",
+    "category": "4Ps: Product"
+  },
+  {
+    "id": "121",
+    "question": "What is Diversification?",
+    "answer": "The name given to the growth strategy where a business markets new products in new markets.",
+    "category": "4Ps: Product"
+  },
+  {
+    "id": "122",
+    "question": "What is Product Development?",
+    "answer": "The name given to a growth strategy where a business aims to introduce new products into existing markets. This strategy may require the development of new competencies and requires the business to develop modified products which can appeal to existing markets.",
+    "category": "4Ps: Product"
+  },
+  {
+    "id": "123",
+    "question": "What is Customer Value - Driven Marketing Strategy?",
+    "answer": "The marketing logic by which the company hopes to create customer value and achieve profitable customer relationships. This involves the decisions of who to serve (through segmentation and targeting) and how (through positioning and differentiation).",
+    "category": "Segmentation"
+  },
+  {
+    "id": "124",
+    "question": "What is Market Segmentation?",
+    "answer": "The division of a market into distinct groups of buyers who have different needs, characteristics or behaviours, and who might require separate products or marketing mixes. The segmentation allows the business to target groups of consumers who respond to maketing efforts the same way.",
+    "category": "4Ps: Product"
+  },
+  {
+    "id": "125",
+    "question": "What is Market Targeting?",
+    "answer": "The process of evaluating each market segment's attractiveness and selecting one or more segments to enter.126. What is Market Positioning?: Arranging of a product to occupy a clearr, distinctive and desirable place relative to competing products in the minds of rtarget customers. Differentiation between products begins at the positioning process.",
+    "category": "4Ps: Product"
+  },
+  {
+    "id": "127",
+    "question": "What is a Marketing Mix?",
+    "answer": "The set of controllable, tactical marketing tools - product, price, plance and promotion - that the firm blends to produce the response it wants in the target market.",
+    "category": "4Ps: Price"
+  },
+  {
+    "id": "128",
+    "question": "What are the three stages of Marketing?",
+    "answer": "Planning, where strategies and plans are made, Implementation where the plans are carried out, and Control, where results are measured, evaluated and corrective actions are taken.",
+    "category": "Other"
+  },
+  {
+    "id": "129",
+    "question": "What is Net Return?",
+    "answer": "The cost of a marketing investment divided by the costs of the marketing investments.",
+    "category": "Other"
+  },
+  {
+    "id": "130",
+    "question": "How can groups of people be segemented?",
+    "answer": "\"Who, what, where\" and \"how\" need to be asked to understand who's to be targetted.",
+    "category": "Other"
+  },
+  {
+    "id": "131",
+    "question": "How is Geographic Segmentation conducted?",
+    "answer": "Divide the area into different geographical units such as nations, regions, states, counties, cities, or even neighbourhoods. There must be consideration of market size, market density and climate.",
+    "category": "Other"
+  },
+  {
+    "id": "132",
+    "question": "What are the benefits of regional segmentation?",
+    "answer": "It presents a new way to generate sales in sluggish and competitive markets. Regional brands appeal to local preferencies. Competition can be reacted to quicker by segmentation a larger area into smaller segements.",
+    "category": "Segmentation"
+  },
+  {
+    "id": "133",
+    "question": "How can demographic segmentation occur?",
+    "answer": "Segmentation allows for the market into smaller segments based upon age, life cycle stage, gender, income, occupation, education, religion, ethnicity and generation. Cultural factors need to be considered during demographic segmentation to ensure products are recieved well.",
+    "category": "4Ps: Product"
+  },
+  {
+    "id": "134",
+    "question": "What is Psychographic segmentation?",
+    "answer": "Psychographic segmentation divides a market into different segments based on social class, lifestyle and personality characteristics.",
+    "category": "Segmentation"
+  },
+  {
+    "id": "135",
+    "question": "What is behavioural segmentation?",
+    "answer": "A method of dividing the market into segments based on consumer knowledge, attitudes, uses of a product, or responses to a product. This can be done by understanding how often a product will be used, the customer's loyalty status to the brand, and whether the product / service is an occasion product or for regular use.",
+    "category": "4Ps: Product"
+  },
+  {
+    "id": "136",
+    "question": "What is Multivariate segmentation?",
+    "answer": "It is used to identify smaller, better defined target groups - eg a mix of geographic and demographic variables. This is based on the idea people who live in certain areas have similar characteristics.",
+    "category": "Other"
+  },
+  {
+    "id": "137",
+    "question": "What other factors need to be considered when segmenting business\\ markets?",
+    "answer": "The existing relationship between firms, the contracts the firms will take, the quality, service and price that the firms are seeking. The urgency that firms require from the business, the size of the rodes, the similarity between buyer and seller.",
+    "category": "4Ps: Price"
+  },
+  {
+    "id": "138",
+    "question": "How can segmentation be made more useful?",
+    "answer": "Consider ensuring that the segmentation is Measurable, Substantial (large enough to be profitable), Accessible (can be effectively reached?), Differentiable (segments are conceptually distinguishable), Actionable (an effective programme can be desinged for attracting and seving the segments).",
+    "category": "Segmentation"
+  },
+  {
+    "id": "139",
+    "question": "What are Segment Profiles?",
+    "answer": "After segmenting the market, the next stage is to develop segment profiles. These provide a detailed desciption of the market segment across a range of factors. This provides firms with an understanding of consumers within each segment for evaluating segment attractiveness and developing suitable marketing strategies.",
+    "category": "Other"
+  },
+  {
+    "id": "140",
+    "question": "What is consumer market targeting?",
+    "answer": "The process of evaluating each segment's attractiveness and selecting one or more segments to enter. In the evaluation of different market segments, firms should consider segment size growth and their competition within the segment, as well as their own objectives and resources.",
+    "category": "Other"
+  },
+  {
+    "id": "141",
+    "question": "What is undifferentiated marketing?",
+    "answer": "A market coverage strategy that targets the whole market with one offer - this involves mass marketing, focusing on common needs rather than unique needs, and a marketing mix which appeals to the largest number of customers.",
+    "category": "Other"
+  },
+  {
+    "id": "142",
+    "question": "What is undifferentiated marketing?",
+    "answer": "A market coverage strategy which targets several different market segments - the company will design a separate marketing mix for each segment, with the goal to be achieving higher sales and a stronger position, however it is more expensive.",
+    "category": "Other"
+  },
+  {
+    "id": "143",
+    "question": "What is concentrated marketing?",
+    "answer": "A market coverage strategy which targets a large share of one or a few segments - this is more niche however it uses limited company resources. Requires more knowledge of their market however it is more efficient.",
+    "category": "Other"
+  },
+  {
+    "id": "144",
+    "question": "What is micromarketing?",
+    "answer": "Tailoring a marketing mix to suit the specific tastes of specific individuals and locations - offers can be custom to individual customers. Mass customisation can be an element of this, tailoring products to individual customers exclusively.",
+    "category": "4Ps: Product"
+  },
+  {
+    "id": "145",
+    "question": "What is single segment concentration?",
+    "answer": "Having one product in one market - a competitor may invade the segment.",
+    "category": "4Ps: Product"
+  },
+  {
+    "id": "146",
+    "question": "What is selective specialisation?",
+    "answer": "Specialised products in specialised markets - attempting to serve all customer groups - examples include makeup firms like Avon.",
+    "category": "4Ps: Product"
+  },
+  {
+    "id": "147",
+    "question": "What is proudct specialisation?",
+    "answer": "Selling a single product in different markets, the product being able to be used by various people - microscopes can be used by universities, in commerical business and in government use.",
+    "category": "4Ps: Product"
+  },
+  {
+    "id": "148",
+    "question": "What is market specialisation?",
+    "answer": "Having various products in a single market - the firm concentrates on serving many needs of a particular customer group or market - shampoos",
+    "category": "4Ps: Product"
+  },
+  {
+    "id": "149",
+    "question": "What is full market coverage?",
+    "answer": "Having different products in different markets in aim of serving all customers with all the products they may need - this is only possible for large firms.",
+    "category": "4Ps: Product"
+  },
+  {
+    "id": "150",
+    "question": "What might a targeting strategy choice depend on?",
+    "answer": "Company resources, their product variability and life cycle, their market variability and their competitor's marketing strategies.",
+    "category": "4Ps: Product"
+  },
+  {
+    "id": "151",
+    "question": "How can target marketing be socially responsible?",
+    "answer": "With concerns for targeting vulnerable or disadvantaged consumers such as children. A business can seve a segment not just for the interests of those targeted, not just themselves.",
+    "category": "Segmentation"
+  },
+  {
+    "id": "152",
+    "question": "What is a value proposition?",
+    "answer": "The full mix of benefits upon which a product or brand is positioned. Positioning maps can show consumer perceptions of one brand against their competing products.",
+    "category": "4Ps: Product"
+  },
+  {
+    "id": "153",
+    "question": "How should a business choose a differentiation and positioning strategy?",
+    "answer": "Identifying a set of competitive advantages through ensuring greater value to the consumer, making sure they're the right ones. Then, the firm must select an overall positioning strategy, through divising a position statement which summarises their brand positioning. This shows evidence of what their brand is relative to their target segment, and their points of difference.",
+    "category": "Branding"
+  },
+  {
+    "id": "154",
+    "question": "What is a product?",
+    "answer": "Anything that can be offered in a market for attention, aquisition, use or consumption which may satisfy a need or want.",
+    "category": "Other"
+  },
+  {
+    "id": "155",
+    "question": "Where does marketing mix planning begin?",
+    "answer": "With building an offering which brings value to customers.",
+    "category": "Other"
+  },
+  {
+    "id": "156",
+    "question": "What are the four aspects which differentiate between products and\\ services?",
+    "answer": "Tangibility, seperability (services are generated and consumed at the same time), variability (services can never be exactly repeated) and perishability (services cannot be stored, saved or returned after use).",
+    "category": "Other"
+  },
+  {
+    "id": "157",
+    "question": "What is a consumer product?",
+    "answer": "Products bought by final consumers for personal consumption - convenience products, shopping products (based on quality, price, style), speciality products (brands, unique), unsought products (life insurance).",
+    "category": "4Ps: Price"
+  },
+  {
+    "id": "158",
+    "question": "What are industrial products?",
+    "answer": "Purchased for further processing or use in conducting a business.",
+    "category": "Other"
+  },
+  {
+    "id": "159",
+    "question": "What are product attributes?",
+    "answer": "Quality, features, style and design.",
+    "category": "Other"
+  },
+  {
+    "id": "160",
+    "question": "What are brands?",
+    "answer": "The names, terms, sign or design, or a combination of these which identifies a product.",
+    "category": "4Ps: Product"
+  },
+  {
+    "id": "161",
+    "question": "What are product support services?",
+    "answer": "Methods through which a company can keep customers happy after the sale.",
+    "category": "Other"
+  },
+  {
+    "id": "162",
+    "question": "What are the five steps in product life cycle?",
+    "answer": "Development, introduction, growth, maturity, decline.",
+    "category": "Other"
+  },
+  {
+    "id": "163",
+    "question": "What is an acquisition?",
+    "answer": "The buying of a whole company, patent, or license to product a product.",
+    "category": "4Ps: Product"
+  },
+  {
+    "id": "164",
+    "question": "What can be counted a new product?",
+    "answer": "Original products, improvements to products, modifications and new brands developed from a frim's own research and development.",
+    "category": "4Ps: Product"
+  },
+  {
+    "id": "165",
+    "question": "What is idea generation?",
+    "answer": "The first step of the new product development process, involved with generation of new concepts for products through internal R&D design and external concepts from suppliers, distributors, competitors, customers and crowdsourcing.",
+    "category": "4Ps: Product"
+  },
+  {
+    "id": "166",
+    "question": "What is idea screening?",
+    "answer": "The second step of the new product development process, concerned with the feasability of the new ideas.",
+    "category": "4Ps: Product"
+  },
+  {
+    "id": "167",
+    "question": "What is concept development?",
+    "answer": "The third step of the new product development process, involved with making a detailed version of the idea in meaningful consumer terms.",
+    "category": "4Ps: Product"
+  },
+  {
+    "id": "168",
+    "question": "What is concept testing?",
+    "answer": "The fourth step of the new product development process, based upon seeing customer reactions to the new product concept.",
+    "category": "4Ps: Product"
+  },
+  {
+    "id": "169",
+    "question": "What is marketing strategy development?",
+    "answer": "The fifth step of the new product development process, based upon making an initial marketing strategy for the new product - outlines long term sales, profits, market share goals and marketing mix.",
+    "category": "4Ps: Product"
+  },
+  {
+    "id": "170",
+    "question": "What is business analysis?",
+    "answer": "The sixth step of the new product development process, reviewing sales, costs and profit projections for new products.",
+    "category": "4Ps: Product"
+  },
+  {
+    "id": "171",
+    "question": "What is test marketing?",
+    "answer": "The seventh stage of new product development where the product and proposed marketing program are tested in realistic market settings. This is likely done with new products with large investments, and when companies are unsure about the product or marketing programme.",
+    "category": "4Ps: Product"
+  },
+  {
+    "id": "172",
+    "question": "What is commercialisation?",
+    "answer": "The eighth step of the new product development process, involving launching the product into the market.",
+    "category": "4Ps: Product"
+  },
+  {
+    "id": "173",
+    "question": "What should new product development be ideally?",
+    "answer": "Customer centred, team based, and systematic. Various company departments should be working closely together to collect, review, evaluate and manage new product ideas.",
+    "category": "4Ps: Product"
+  },
+  {
+    "id": "174",
+    "question": "What is a supply chain?",
+    "answer": "A set of independent firms involved in the process of making products/services available for use or consumption",
+    "category": "4Ps: Product"
+  },
+  {
+    "id": "175",
+    "question": "What are upstream partners?",
+    "answer": "Upstream partners are firms that supply raw materials, uc0 u8192 components, parts, information, finances, and expertise needed to create a product or service.",
+    "category": "4Ps: Product"
+  },
+  {
+    "id": "176",
+    "question": "What are downstream partners?",
+    "answer": "Downstream partners include the marketing channels or distribution channels that look toward the customer, including retailers and wholesalers",
+    "category": "Other"
+  },
+  {
+    "id": "177",
+    "question": "What is a value delivery network?",
+    "answer": "Value delivery network is composed of the company, suppliers, distributors, and, ultimately, customers who partner with each other to improve the performance of the entire system",
+    "category": "Other"
+  },
+  {
+    "id": "178",
+    "question": "What are channel levels?",
+    "answer": "Layers of intermediaries which work to bring products to the buyer. Direct marketing channels have no intermediary levels.",
+    "category": "4Ps: Product"
+  },
+  {
+    "id": "179",
+    "question": "What is channel conflict?",
+    "answer": "Channel conflict refers to disagreement among channel members over goals, roles, and rewards. Horizontal conflict uc0 u8192 occurs among members at the same level (e.g., car dealers) while vertical conflict uc0 u8192 occurs among members at different level of the same channel (e.g., KFC)",
+    "category": "Other"
+  },
+  {
+    "id": "180",
+    "question": "What causes channel conflict?",
+    "answer": "Not understanding their role, resource scarcity, perceived differences and expectation differences, goal differences or incompatibilities, lack of communication.",
+    "category": "Other"
+  },
+  {
+    "id": "181",
+    "question": "How can you detect potential channel conflict?",
+    "answer": "Surveying other channel members, marketing channel audits, committees and monitoring.",
+    "category": "Other"
+  },
+  {
+    "id": "182",
+    "question": "What are the four monitoring archetypes for channel conflict?",
+    "answer": "Fox (monitors everything), Bat (wait for results and information), Dog (waits for information but checks in), Owl (Waits but monitors a lot)",
+    "category": "Other"
+  },
+  {
+    "id": "183",
+    "question": "How can you appraise the effect of channel conflict?",
+    "answer": "Judge the importance of issues, assess the effect of the conflict, establish the frequency of disagreements and the intensity of the dispute.",
+    "category": "Other"
+  },
+  {
+    "id": "184",
+    "question": "How can you resolve a channel conflict?",
+    "answer": "Channel wide committee and face to face meetings, setting joint goals and solving problems.",
+    "category": "Other"
+  },
+  {
+    "id": "185",
+    "question": "What are marketing logistics?",
+    "answer": "Marketing logistics (physical distribution) involves planning, implementing, and controlling the physical flow of goods, services, and related information from points of origin to points of consumption to meet consumer requirements at a profit",
+    "category": "Other"
+  },
+  {
+    "id": "186",
+    "question": "What is supply chain management?",
+    "answer": "Supply chain management involves managing upstream and downstream value-added flows of materials, final goods, and related information among suppliers, the company, resellers, and final consumers",
+    "category": "Other"
+  },
+  {
+    "id": "187",
+    "question": "What is retailing?",
+    "answer": "All activities in selling products or services directly to final consumers for their personal, non-business use",
+    "category": "4Ps: Product"
+  },
+  {
+    "id": "188",
+    "question": "What is wholesaling?",
+    "answer": "All activities involved in selling goods and services to those buying for resale or business use",
+    "category": "Other"
+  },
+  {
+    "id": "189",
+    "question": "What is value?",
+    "answer": "Percieved benefits - percieved costs",
+    "category": "Other"
+  },
+  {
+    "id": "190",
+    "question": "What is conjoint analysis?",
+    "answer": "Analysis of attributes of a product to determine which is more valuable.",
+    "category": "4Ps: Product"
+  },
+  {
+    "id": "191",
+    "question": "What is value based pricing?",
+    "answer": "Pricing which uses the buyer's perceptions of value rathe than the sellers cost - the price is set to match perceieved value.",
+    "category": "4Ps: Price"
+  },
+  {
+    "id": "192",
+    "question": "What is cost - based pricing?",
+    "answer": "Setting prices based on the cost of production, distribution and taking into account the effort and risk put into the product.",
+    "category": "4Ps: Price"
+  },
+  {
+    "id": "193",
+    "question": "What are the advantages of value based pricing?",
+    "answer": "Prices can be changed constantly as value perceptions to change over time, and meet consumer demand.",
+    "category": "4Ps: Price"
+  },
+  {
+    "id": "194",
+    "question": "What are the disadvantages of value based pricing?",
+    "answer": "Sellers can be uncertain of the value as market research is expensive, and the price might not generate a high markup or profit.",
+    "category": "4Ps: Price"
+  },
+  {
+    "id": "195",
+    "question": "What are some advantages of cost based pricing?",
+    "answer": "Sellers can be certain about costs and so it leads to a simple pricing process without the need to adapt prices constantly. Buyers see it as more fair and can be a good strategy if you're a cost leader.",
+    "category": "4Ps: Price"
+  },
+  {
+    "id": "196",
+    "question": "What are some disadvantages to cost based pricing?",
+    "answer": "It ignores customer demand and competitor pricing, and if the markup is low, there may not be room to change prices.",
+    "category": "4Ps: Price"
+  },
+  {
+    "id": "197",
+    "question": "What is competition based pricing?",
+    "answer": "Setting prices based on competitors strategies, costs, prices and market offerings",
+    "category": "4Ps: Price"
+  },
+  {
+    "id": "198",
+    "question": "What is dynamic pricing?",
+    "answer": "Sellers adjusting pricing continually to meet the characteristics and needs of individual customers and situations using big data, cookies, location data",
+    "category": "Other"
+  },
+  {
+    "id": "199",
+    "question": "What is market skimming pricing?",
+    "answer": "Price your product to maximise revenue per unit - good for when you have first mover advantage - IPhone",
+    "category": "4Ps: Price"
+  },
+  {
+    "id": "200",
+    "question": "What is market penetration pricing?",
+    "answer": "Pricing under the market rate to get your product established within the market.",
+    "category": "4Ps: Product"
+  },
+  {
+    "id": "201",
+    "question": "What is dumping?",
+    "answer": "Setting pricing at a value where no profit is made - use to establish a brand loyalty.",
+    "category": "Branding"
+  },
+  {
+    "id": "202",
+    "question": "What are two sided markets?",
+    "answer": "Two major players within a market with the bulk of the market share who compete only with eachother for this.",
+    "category": "Other"
+  },
+  {
+    "id": "203",
+    "question": "What is Freemium pricing?",
+    "answer": "A base sevice which is free, which can then be paid for to unlock more content.",
+    "category": "Other"
+  },
+  {
+    "id": "204",
+    "question": "What is predatory pricing?",
+    "answer": "The practice of selectively pricing a product below that of competition so as to eliminate competition, while pricing the product higher in markets where competition does not exist or is relatively weaker.",
+    "category": "4Ps: Product"
+  },
+  {
+    "id": "205",
+    "question": "Why can some demand curves slope upwards?",
+    "answer": "Price can act as an indicator for quality, so the good can become more popular due to the price.",
+    "category": "4Ps: Price"
+  },
+  {
+    "id": "206",
+    "question": "What is price elasticity of demand?",
+    "answer": "Price elasticity is a measure of the sensitivity of demand to changes in price.",
+    "category": "4Ps: Price"
+  },
+  {
+    "id": "207",
+    "question": "How do you calculate price elasticity of demand?",
+    "answer": "The percentage change in quantity / the percentage change in price.",
+    "category": "4Ps: Price"
+  },
+  {
+    "id": "208",
+    "question": "What is odd - even pricing?",
+    "answer": "A form of psychological pricing that suggests buyers are more sensitive to certain ending digits. Odd price refers to a price ending in an odd number (e.g., 1,3,5,7,9), or to a price just under a round number (e.g., $0.89, $3.99, $44.98). Even price refers to a price ending in a whole number or in tenths (e.g., $0.50, $5.00, $8.10, $75.00).}",
+    "category": "4Ps: Price"
+  }
+]
